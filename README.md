@@ -1,4 +1,4 @@
-#Wearable Dosimeter
+Wearable Dosimeter
 
 A wearable redesign of the OpenDosimeter platform focused on compact electronics, custom PCB integration, embedded firmware, and practical radiation-monitoring applications.
 
